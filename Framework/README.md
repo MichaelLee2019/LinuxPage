@@ -4,4 +4,4 @@ Record some of the content related to sofrware framework
 ------------------------------------------------------------------------------------------------------------------------------
 
 
- - [Web Upgrade](https://github.com/awokezhou/LinuxPage/wiki/%E5%AE%B6%E5%BA%AD%E7%BD%91%E5%85%B3)
+ - [Web Upgrade](https://github.com/awokezhou/LinuxPage/wiki/Web%E5%8D%87%E7%BA%A7%E6%A1%86%E6%9E%B6)
