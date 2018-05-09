@@ -14,4 +14,5 @@ Record some of the content related to embedded Linux, including command usage, u
  
  - [Bridge](https://github.com/awokezhou/LinuxPage/wiki/Bridge%E6%A1%86%E6%9E%B6)
  
+ - [HTTP 持久连接](https://github.com/awokezhou/LinuxPage/wiki/HTTP-%E6%8C%81%E4%B9%85%E8%BF%9E%E6%8E%A5)
  
