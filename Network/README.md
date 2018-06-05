@@ -20,3 +20,5 @@ Record some of the content related to embedded Linux, including command usage, u
  
  - [HTTP 1.0 1.1 2 区别](https://github.com/awokezhou/LinuxPage/wiki/HTTP-1.0-1.1-2-%E5%8C%BA%E5%88%AB)
  
+ - [NAPI](https://github.com/awokezhou/LinuxPage/wiki/NAPI)
+ 
